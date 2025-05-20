@@ -728,7 +728,7 @@ end)
 -- Credits Section
 ConfigTab:Label("Created by GhostScript")
 ConfigTab:Label("Version 1.0.1")
-ConfigTab:Label("Enhanced by Claude - All Toggles Edition")
+ConfigTab:Label("Love to all Buyers!")
 
 -- Character respawn handling
 player.CharacterAdded:Connect(function(newCharacter)
