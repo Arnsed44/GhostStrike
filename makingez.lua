@@ -1,5 +1,5 @@
 local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Kavo-Ui/main/Darkrai%20Ui", true))()
-local Library = DarkraiX:Window("GhostStrike Pro V1", "", "", Enum.KeyCode.RightControl)
+local Library = DarkraiX:Window("GhostStrike", "", "", Enum.KeyCode.RightControl)
 
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
